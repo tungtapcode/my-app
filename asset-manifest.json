@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tungtapcode/DemoWeb/static/css/main.820f204f.css",
+    "main.js": "/tungtapcode/DemoWeb/static/js/main.cd8b7c64.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tungtapcode/DemoWeb/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/tungtapcode/DemoWeb/index.html",
+    "main.820f204f.css.map": "/tungtapcode/DemoWeb/static/css/main.820f204f.css.map",
+    "main.cd8b7c64.js.map": "/tungtapcode/DemoWeb/static/js/main.cd8b7c64.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tungtapcode/DemoWeb/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820f204f.css",
+    "static/js/main.cd8b7c64.js"
+  ]
+}
